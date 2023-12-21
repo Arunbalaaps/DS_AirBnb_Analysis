@@ -18,7 +18,6 @@ Key Technologies and Skills
 Python
 Pandas
 MongoDB
-PostgreSQL
 Streamlit
 Plotly
 Tableau
@@ -28,18 +27,10 @@ To run this project, you need to install the following packages:
 
 pip install pandas
 pip install pymongo
-pip install psycopg2
 pip install streamlit
 pip install plotly
 Usage
 
-To use this project, follow these steps:
-
-Clone the repository: git clone https://github.com/arunbalaaps/Airbnb-Analysis.git
-Install the required packages: pip install -r requirements.txt
-Run the Streamlit app: streamlit run app.py
-Access the app in your browser at http://localhost:8501
-Features
 
 Data Collection and Preprocessing
 
@@ -74,5 +65,4 @@ Tableau Dashboard
 
 Create a comprehensive Tableau dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
 
-Explore the Tableau dashboard https://public.tableau.com/arunbala/Airbnb-Analysis for in-depth insights.
 
